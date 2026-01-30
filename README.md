@@ -49,10 +49,6 @@ The dataset contains historical customer information, including:
 - ## Results
 The model is able to predict customer churn with reliable performance and helps identify customers who are at high risk of leaving the service.
 
-## Future Work
-- Deploy the model using Streamlit
-- Enable real-time churn prediction
-
 - ## Conclusion
 This project demonstrates an end-to-end machine learning workflow, from data preprocessing to model evaluation, and serves as a foundation for deployment-based ML applications.
 
@@ -60,5 +56,3 @@ This project demonstrates an end-to-end machine learning workflow, from data pre
 **Chhama Tomar**  
 Aspiring AI / ML Engineer
 
-## Note
-User interface and deployment will be added in future updates.
